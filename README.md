@@ -3,7 +3,7 @@
 # ADC #
 
 [![Library: ADC](https://img.shields.io/badge/Library-ADC-red?style=for-the-badge&logo=Arduino)](README.md)
-[![Version: v0.1](https://img.shields.io/badge/Version-v0.1-blue?style=for-the-badge&logo=v)]()
+[![Version: v0.1.2](https://img.shields.io/badge/Version-v0.1.2-blue?style=for-the-badge&logo=v)]()
 
 Arduino library for get fastly ADC value on AVR,s devices.
 

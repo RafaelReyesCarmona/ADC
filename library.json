@@ -1,6 +1,6 @@
 {
 	"name": "ADC",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"keywords": "ADC",
 	"description": "Arduino library for get fastly ADC value on AVR,s devices.",
 	"authors":

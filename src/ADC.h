@@ -1,6 +1,6 @@
 /*
 ADC.h - Arduino library for get fastly ADC value on AVR,s devices.
-v0.1.1
+v0.1.2
 
 Copyright © 2022 Francisco Rafael Reyes Carmona.
 All rights reserved.
@@ -34,10 +34,14 @@ rafael.reyes.carmona@gmail.com
 #ifndef ADC_h
 #define ADC_h
 
+#if defined(__AVR__)
+
 #include <math.h>
 #include <avr/sleep.h>
 
 extern uint16_t adcRead_(void);
 extern uint16_t adcGet_(void);
+
+#endif
 
 #endif
